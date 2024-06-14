@@ -20,7 +20,7 @@ TURKFACT is a multi-class machine learning model designed to fact-check Turkish 
 
 In an era dominated by information overflow, discerning the authenticity of news and claims has become increasingly challenging. TURKFACT aims to provide a robust solution to this problem by leveraging machine learning models to detect complex linguistic patterns associated with misleading and divisive content in Turkish texts.
 
-The project was developed by Fatih Sinan Esen and Sahin Emrah Amrahov from the Department of Computer Engineering at Ankara University, Turkey.
+The project was developed by Fatih Sinan Esen and Sahin Emrah Amrahov from the Department of Computer Engineering at Ankara University, Türkiye.
 
 ## Features
 
