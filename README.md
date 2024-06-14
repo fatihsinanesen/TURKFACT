@@ -62,6 +62,7 @@ The dataset used in this project consists of 9,792 labeled Turkish texts categor
 - **Fake Content**: 722 samples
 
 The data was collected from various online sources, including social media and fact-checking websites such as Teyit.org.
+The dataset was loaded in the repo as training_data_news.xlsx.
 
 ## Model Training
 
