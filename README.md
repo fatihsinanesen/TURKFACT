@@ -42,10 +42,10 @@ pip install -r requirements.txt
 
 ## Usage
 
-The project includes a Jupyter notebook (`TURKFACT.ipynb`) that demonstrates how to use the TURKFACT model. To run the notebook:
+The project includes a Jupyter notebook (`main.ipynb`) that demonstrates how to use the TURKFACT model. To run the notebook:
 
 ```bash
-jupyter notebook TURKFACT.ipynb
+jupyter notebook main.ipynb
 ```
 
 The notebook guides you through the steps of loading the dataset, preprocessing the data, training the model, and evaluating its performance.
@@ -99,12 +99,8 @@ Contributions to TURKFACT are welcome. If you have any suggestions, bug reports,
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## Acknowledgments
 
 We would like to thank the Department of Computer Engineering at Ankara University for their support. Special thanks to all contributors and researchers who have provided valuable insights and data for this project.
-
----
-
-For more details, please refer to the published paper: "TURKFACT: A Multi-Class Machine Learning Model for Fact-Checking Turkish Text Content" in the International Journal of Multimedia Information Retrieval.
