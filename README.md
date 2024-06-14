@@ -49,6 +49,7 @@ jupyter notebook main.ipynb
 ```
 
 The notebook guides you through the steps of loading the dataset, preprocessing the data, training the model, and evaluating its performance.
+Moreover, some of the pickle files of trained models were loaded in the repository.
 
 ## Dataset
 
