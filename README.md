@@ -22,7 +22,9 @@ In an era dominated by information overflow, discerning the authenticity of news
 
 The project was developed by Fatih Sinan Esen and Sahin Emrah Amrahov from the Department of Computer Engineering at Ankara University, Türkiye.
 
-If you would like to use the code or the dataset for scientific or educationak purposes, please cite our work as follows: Esen, F. S., Amrahov, S. A. (2024) TURKFACT: A Multi-Class Machine Learning
+If you would like to use the code or the dataset for scientific or educationak purposes, please cite our work as follows: 
+
+Esen, F. S. and Amrahov, S. A. (2024) TURKFACT: A Multi-Class Machine Learning
 Model for Fact-Checking Turkish Text Content. URL: https://github.com/fatihsinanesen/TURKFACT
 
 ## Features
